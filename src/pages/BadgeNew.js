@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
 import header from '../images/badge-header.svg';
 import './styles/BadgeNew.css';
 import Badge from '../components/Badge';
@@ -18,7 +17,6 @@ class BadgeNew extends React.Component {
     };
 
     handleChange = e => {
-        console.log("TCL: BadgeNew -> e", e)
         this.setState({
             form: {
                 ...this.state.form,
@@ -29,7 +27,6 @@ class BadgeNew extends React.Component {
 
     render() {
         return <div>
-            <Navbar />
             <div className="BadgeNew__hero">
                 <img className="img-fluid" src={header} alt="header" />
             </div>
