@@ -18,20 +18,21 @@ class BadgesList extends React.Component {
                 <div className="Badges__container">
                     <ul className="list-unstyled">
                         {this.props.badges.map((badge) => {
-                        console.log("TCL: BadgesList -> render -> badge", badge)
                             return (
                                 <li key={badge.id} className="BadgesListItem">
-                                    <div className="row badge-list-container">
-                                        <div className="col-3">
-                                            <Gravatar className="BadgesListItem__avatar" email={badge.email} />
-                                            {/* <img src={badge.avatarUrl} className="BadgesListItem__avatar" alt="ava tar" />*/}
+                                    <Link className="text-reset text-decoration-none w-100" to={`/badges/${badge.id}/edit`} >
+                                        <div className="row">
+                                            <div className="col-3">
+                                                <Gravatar className="BadgesListItem__avatar" email={badge.email} />
+                                                {/* <img src={badge.avatarUrl} className="BadgesListItem__avatar" alt="ava tar" />*/}
+                                            </div>
+                                            <div className="col-9">
+                                                <b>{badge.firstName} {badge.lastName}</b>< br />
+                                                <img width="20" height="20" src={twitterLogo} alt="twitter" /><span className="twitter-color">@{badge.twitter}</span>< br />
+                                                <small>{badge.jobTitle}</small>
+                                            </div>
                                         </div>
-                                        <div className="col-9">
-                                            <b>{badge.firstName} {badge.lastName}</b>< br />
-                                            <img width="20" height="20" src={twitterLogo} alt="twitter" /><span className="twitter-color">@{badge.twitter}</span>< br />
-                                            <small>{badge.jobTitle}</small>
-                                        </div>
-                                    </div>
+                                    </Link>
                                 </li>
                             )
                         })}
