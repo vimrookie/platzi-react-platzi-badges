@@ -1,24 +1,6 @@
 {
   "badges": [
     {
-      "id": "2de30c42-9deb-40fc-a41f-05e62b5939a7",
-      "firstName": "Freda",
-      "lastName": "Grady",
-      "email": "Leann_Berge@gmail.com",
-      "jobTitle": "Legacy Brand Director",
-      "twitter": "FredaGrady22221-7573",
-      "avatarUrl": "https://www.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b?d=identicon"
-    },
-    {
-      "id": "d00d3614-101a-44ca-b6c2-0be075aeed3d",
-      "firstName": "Major",
-      "lastName": "Rodriguez",
-      "email": "Ilene66@hotmail.com",
-      "jobTitle": "Human Research Architect",
-      "twitter": "MajorRodriguez61545",
-      "avatarUrl": "https://www.gravatar.com/avatar/d57a8be8cb9219609905da25d5f3e50a?d=identicon"
-    },
-    {
       "id": "63c03386-33a2-4512-9ac1-354ad7bec5e9",
       "firstName": "Daphney",
       "lastName": "Torphy",
@@ -451,15 +433,6 @@
       "id": "F0YyXfh"
     },
     {
-      "firstName": "Vanessa",
-      "lastName": "Rojo",
-      "email": "vanerojo0510@gmail.com",
-      "jobTitle": "Secreataria",
-      "twitter": "vanerojo0510",
-      "avatarUrl": "https://www.gravatar.com/avatar/402320a069647b54726603ea54bd8e13",
-      "id": "R9mQqjg"
-    },
-    {
       "firstName": "Gleycer",
       "lastName": "Parra",
       "email": "gleycerparra@gmail.com",
@@ -467,60 +440,6 @@
       "twitter": "gleycerparra",
       "avatarUrl": "https://www.gravatar.com/avatar/402320a069647b54726603ea54bd8e13",
       "id": "7C3m7zQ"
-    },
-    {
-      "firstName": "Gleycer",
-      "lastName": "Parra",
-      "email": "gleycerparra@gmail.com",
-      "jobTitle": "Javascript Fullstack Developer",
-      "twitter": "gleycerparra",
-      "avatarUrl": "https://www.gravatar.com/avatar/402320a069647b54726603ea54bd8e13",
-      "id": "Q42zpJW"
-    },
-    {
-      "firstName": "Gleycer",
-      "lastName": "Parra",
-      "email": "gleycerparra@gmail.com",
-      "jobTitle": "Javascript Fullstack Developer",
-      "twitter": "gleycerparra",
-      "avatarUrl": "https://www.gravatar.com/avatar/402320a069647b54726603ea54bd8e13",
-      "id": "h6MHDpO"
-    },
-    {
-      "firstName": "Gleycer",
-      "lastName": "Parra",
-      "email": "gleycerparra@gmail.com",
-      "jobTitle": "Javascript Fullstack Developer",
-      "twitter": "gleycerparra",
-      "avatarUrl": "https://www.gravatar.com/avatar/402320a069647b54726603ea54bd8e13",
-      "id": "PO9Uo_4"
-    },
-    {
-      "firstName": "Gleycer",
-      "lastName": "Parra",
-      "email": "gleycerparra2@gmail.com",
-      "jobTitle": "Javascript Fullstack Developer",
-      "twitter": "gleycerparra",
-      "avatarUrl": "https://www.gravatar.com/avatar/402320a069647b54726603ea54bd8e13",
-      "id": "VTFtoMj"
-    },
-    {
-      "firstName": "Gleycer",
-      "lastName": "Parra",
-      "email": "gleycerparra@gmail.com",
-      "jobTitle": "Javascript Fullstack Developer",
-      "twitter": "gleycerparra",
-      "avatarUrl": "https://www.gravatar.com/avatar/402320a069647b54726603ea54bd8e13",
-      "id": "bsVep4x"
-    },
-    {
-      "firstName": "Gleycer",
-      "lastName": "Parra",
-      "email": "gleycerparra@gmail.com",
-      "jobTitle": "Javascript Fullstack Developer",
-      "twitter": "gleycerparra",
-      "avatarUrl": "https://www.gravatar.com/avatar/402320a069647b54726603ea54bd8e13",
-      "id": "WOgwscS"
     }
   ]
 }

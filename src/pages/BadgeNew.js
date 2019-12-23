@@ -76,9 +76,9 @@ class BadgeNew extends React.Component {
             {this.state.loading && (
                 <Loader />
             )}
-            {/* {this.state.error && (
+            {this.state.error && (
                 <PageError error={this.state.error} />
-            )} */}
+            )}
         </React.Fragment>
     }
 }

@@ -1,9 +1,10 @@
 import React from 'react';
+import './styles/Loader.css';
 
 const Loader = () => {
     /* const children = props.children; */
     return (
-        <div className="d-flex justify-content-center">
+        <div className="d-flex justify-content-center align-items-center loader">
             <div className="spinner-grow text-primary" role="status">
                 <span className="sr-only">Loading...</span>
             </div>
