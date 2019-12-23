@@ -60,7 +60,7 @@ class Badges extends React.Component {
                         <div className="Badges__container">
 
                             <React.Fragment>
-                                <div className="Badges_buttons">
+                                <div className="Badges__buttons">
                                     <Link to="/badges/new" className="btn btn-primary">New Badge</Link>
                                 </div>
                                 <BadgesList badges={this.state.data} />
