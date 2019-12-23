@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-platzi-badges/static/css/main.eddca697.chunk.css",
-    "main.js": "/react-platzi-badges/static/js/main.838332ea.chunk.js",
-    "main.js.map": "/react-platzi-badges/static/js/main.838332ea.chunk.js.map",
+    "main.js": "/react-platzi-badges/static/js/main.a597a866.chunk.js",
+    "main.js.map": "/react-platzi-badges/static/js/main.a597a866.chunk.js.map",
     "runtime-main.js": "/react-platzi-badges/static/js/runtime-main.a0ad5015.js",
     "runtime-main.js.map": "/react-platzi-badges/static/js/runtime-main.a0ad5015.js.map",
     "static/css/2.64a99b10.chunk.css": "/react-platzi-badges/static/css/2.64a99b10.chunk.css",
-    "static/js/2.bc36b319.chunk.js": "/react-platzi-badges/static/js/2.bc36b319.chunk.js",
-    "static/js/2.bc36b319.chunk.js.map": "/react-platzi-badges/static/js/2.bc36b319.chunk.js.map",
+    "static/js/2.08507f44.chunk.js": "/react-platzi-badges/static/js/2.08507f44.chunk.js",
+    "static/js/2.08507f44.chunk.js.map": "/react-platzi-badges/static/js/2.08507f44.chunk.js.map",
     "index.html": "/react-platzi-badges/index.html",
-    "precache-manifest.54e0466d8e9e5523bbe55f5f0340da4a.js": "/react-platzi-badges/precache-manifest.54e0466d8e9e5523bbe55f5f0340da4a.js",
+    "precache-manifest.73568f0b0d6ff67e9e044984de16d1a4.js": "/react-platzi-badges/precache-manifest.73568f0b0d6ff67e9e044984de16d1a4.js",
     "service-worker.js": "/react-platzi-badges/service-worker.js",
     "static/css/2.64a99b10.chunk.css.map": "/react-platzi-badges/static/css/2.64a99b10.chunk.css.map",
     "static/css/main.eddca697.chunk.css.map": "/react-platzi-badges/static/css/main.eddca697.chunk.css.map",
-    "static/js/2.bc36b319.chunk.js.LICENSE": "/react-platzi-badges/static/js/2.bc36b319.chunk.js.LICENSE",
+    "static/js/2.08507f44.chunk.js.LICENSE": "/react-platzi-badges/static/js/2.08507f44.chunk.js.LICENSE",
     "static/media/astronauts.svg": "/react-platzi-badges/static/media/astronauts.71addf45.svg",
     "static/media/badge-header.svg": "/react-platzi-badges/static/media/badge-header.973f5842.svg",
     "static/media/logo.svg": "/react-platzi-badges/static/media/logo.0026b862.svg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.a0ad5015.js",
     "static/css/2.64a99b10.chunk.css",
-    "static/js/2.bc36b319.chunk.js",
+    "static/js/2.08507f44.chunk.js",
     "static/css/main.eddca697.chunk.css",
-    "static/js/main.838332ea.chunk.js"
+    "static/js/main.a597a866.chunk.js"
   ]
 }
