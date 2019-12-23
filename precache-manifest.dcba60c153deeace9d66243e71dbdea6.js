@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3407c5d7ebb7542a11633ab58c873b56",
+    "revision": "b927ec433273079cde38ac15ac66c2e2",
     "url": "/react-platzi-badges/index.html"
   },
   {
-    "revision": "60b9b0729d95d324b1a4",
+    "revision": "6fe4fed5c8b4c111f5c5",
     "url": "/react-platzi-badges/static/css/2.64a99b10.chunk.css"
   },
   {
-    "revision": "9a5744808e93b8db5c24",
+    "revision": "bc4e79a6eb3f5d6b1114",
     "url": "/react-platzi-badges/static/css/main.eddca697.chunk.css"
   },
   {
-    "revision": "60b9b0729d95d324b1a4",
-    "url": "/react-platzi-badges/static/js/2.6e1cb7c0.chunk.js"
+    "revision": "6fe4fed5c8b4c111f5c5",
+    "url": "/react-platzi-badges/static/js/2.08507f44.chunk.js"
   },
   {
     "revision": "78ddf5a465591a03b9601ba2ddd63415",
-    "url": "/react-platzi-badges/static/js/2.6e1cb7c0.chunk.js.LICENSE"
+    "url": "/react-platzi-badges/static/js/2.08507f44.chunk.js.LICENSE"
   },
   {
-    "revision": "9a5744808e93b8db5c24",
-    "url": "/react-platzi-badges/static/js/main.290ce8cb.chunk.js"
+    "revision": "bc4e79a6eb3f5d6b1114",
+    "url": "/react-platzi-badges/static/js/main.3ddb7fde.chunk.js"
   },
   {
     "revision": "abf8185e96193496c575",
