@@ -13,7 +13,7 @@ function Home() {
                 <h4>The easiest way to manage your
 conference</h4>
                 <Link to="/badges">
-                    <h5>Go to Badges List</h5>
+                    <button className="btn btn-primary mt-3">Go to Badges List</button>
                 </Link>
             </div>
             <div className="col-6 Home__col">
